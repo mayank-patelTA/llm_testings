@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/mayankpatel/langchain-course/.venv/bin/python",
+  "python.terminal.activateEnvironment": true
+}
